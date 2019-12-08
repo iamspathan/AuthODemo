@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuthO Demo</string>
+    <string name="com_auth0_client_id">8BWID0WDq1FRxYyQE69EJhCLOY71X0og</string>
+    <string name="com_auth0_domain">iamspathan.auth0.com</string>
+    <string name="callback_login">demo://iamspathan.auth0.com/android/com.example.authodemo/callback</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+</resources>
